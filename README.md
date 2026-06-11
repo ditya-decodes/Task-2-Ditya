@@ -1,7 +1,7 @@
 # Task-2-Ditya
 Built the backend for Scribble (Note-taking web app)
 
-# Scribble: Full-Stack Note-Taking Platform (Backend API Engine)
+# Scribble: Note-Taking Web App(Backend API Engine)
 
 Welcome to the backend infrastructure for **Scribble**, engineered explicitly for **Task 2: Backend API Development** of the DecodeLabs Full-Stack Development Internship. 
 
