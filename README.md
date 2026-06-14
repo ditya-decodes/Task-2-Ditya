@@ -3,7 +3,7 @@ Built the backend for Scribble (Note-taking web app)
 
 # Scribble: Note-Taking Web App(Backend API Engine)
 
-The backend infrastructure for **Scribble**, engineered explicitly for **Task 2: Backend API Development** of the DecodeLabs Full-Stack Development Internship. 
+The backend infrastructure for **Scribble**, engineered explicitly for **Task 02: Backend API Development** of the DecodeLabs Full-Stack Development Internship. 
 
 This system moves Scribble from localized client-only state storage to a resilient, stateless RESTful API powered by Node.js, Express, and native local file persistence (`notes.json`). 
 It strictly respects the structural architecture guideline: **"Resources are Nouns. Methods are Verbs."**
